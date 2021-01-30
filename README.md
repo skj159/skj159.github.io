@@ -1,1 +1,1 @@
-# skj159.github.io
+# CS 1030 - Web Page Assignment
